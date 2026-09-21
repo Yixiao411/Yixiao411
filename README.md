@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=0e8a7a)
-
 # 👋 Hi there, I'm Yixiao Xu
 
 Software Developer specialized in **Multiplatform Application Development (DAM)** with a strong background in **3D Animation, Games, and Interactive Environments**. I bridge the gap between robust backend/frontend software architecture and immersive digital/graphics experiences.
